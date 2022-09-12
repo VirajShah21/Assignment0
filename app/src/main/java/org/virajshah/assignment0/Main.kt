@@ -1,6 +1,6 @@
 package org.virajshah.assignment0
 
-class `Main.kt` {
+class Main {
     fun main(args: Array<String>) {
         print("Let's create some shapes!")
 
